@@ -143,7 +143,7 @@ main p{
     h2, p { margin-top: 1em }
 }
 
-@media(max-widht: 800px){
+@media(max-width: 800px){
     body{
         grid-template-columns: 1fr;
     }
